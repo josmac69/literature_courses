@@ -1,0 +1,25 @@
+#### ChatGPT and Technical Hiring: What You Need to Know - online webinar
+
+- automates search on internet for documentation and known problems
+- allow you to concentrate on solving problems not on syntax of programming
+- but people must know enough to be able to understand if code is OK or not
+- some explanations done by ChatGPT are just estimates and sometimes they are completely wrong
+- fear that ChatGPT can ruing hiring process
+- it can support brainstorming process
+- candidates do not know how to properly use ChatGPT
+- interview should be about "real world" not any scholastic tasks
+- engineers should be problem solvers, finding new solutions, not coding monkies
+- interview processes should be re-evaluated to not look for coding monkies
+- ChatGPT is engineering developer of very good level, but candidate should show that they understand
+- ChatGPT drastically increases productivity of everyday's job
+- companies should understand what are they actually looking for in hiring process
+- engineers can concentrate on doing something not memorizing something
+- candidate should demonstrate usage of logic
+- be sure what skills are you looking for - creativity, cooperation, logical thinking
+- there will be soon apps doing specialized work using AI
+- people are repeatedly scared that new tools will automate everything and there will be no work left for people - and soon it is gone
+- people will simply be working on something more interesting
+- there is always bias in interviews, we shall understand it
+- interview should help us understang who has future potential
+- shall interviewers be concern about ChatGPT-cheating? Or shall they actually encourage it?
+- if candidate as problem solving mindset and can explain solutions from ChatGPT or StackOverflow, it is still a very good candidate
