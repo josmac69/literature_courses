@@ -45,7 +45,7 @@ Notes:
       * company data are pulled from profiles of people on LinkedIn
       * 
 * Works - Learnings -> LinkedIn Learning
-  * unlimitted access
+  * unlimited access
   * search, store found courses
     * tip - cover letter, resume related courses
   * learning groups - recommended for this course
